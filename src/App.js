@@ -1,4 +1,3 @@
-import logo from "./logo.svg";
 import "./App.css";
 import Home from "./cmp/Home";
 import Student from "./cmp/Student";
